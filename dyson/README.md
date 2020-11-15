@@ -4,7 +4,8 @@ TEAM MEMBERS:- Devansh Jyoti, Kumar Sandeep, Akash Kumar, Ritika Kumari
 
 DEPLOYMENT LINK:- https://dyson-4a3bd.web.app/
 
-
+The Website is built as a React Single Page Application so the navigation is responsive, snappy and doesn't require any loading of the page. The styiling is done using flex box so the page is responsive to the screen size and dimensions.
+The overall features of the app are discussed in the following video- https://youtu.be/ejIB8zYDVeA
 
 # Getting Started with Create React App
 
